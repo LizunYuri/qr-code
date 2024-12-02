@@ -41,4 +41,3 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Website - [b_Root](https://www.build-root.ru)
 - Frontend Mentor - [@LizunYuri](https://www.frontendmentor.io/profile/LizunYuri)
-
